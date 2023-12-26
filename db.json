@@ -1,0 +1,556 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello, world!",
+      "content": "this is my first post on the api.",
+      "author": "john doe"
+    },
+    {
+      "id": 2,
+      "title": "json api tutorial",
+      "content": "learn how to build a json api",
+      "author": "jane smith"
+    },
+    {
+      "id": 3,
+      "title": "3",
+      "content": "Learn how to build a JSON API 3",
+      "author": "Jane Smith 2"
+    },
+    {
+      "id": 4,
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2"
+    },
+    {
+      "id": 100,
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2"
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 102
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 103
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 104
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 105
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 106
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 107
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 108
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 110
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 111
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 112
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 113
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 114
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 115
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 116
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 117
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 118
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 119
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 120
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 121
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 122
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 123
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 124
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 125
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 126
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 127
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 128
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 129
+    },
+    {
+      "title": "JSON API Tutorial 2",
+      "content": "Learn how to build a JSON API 2",
+      "author": "Jane Smith 2",
+      "id": 130
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postid": 1,
+      "author": "alice",
+      "content": "nice post!"
+    },
+    {
+      "id": 2,
+      "postid": 1,
+      "author": "bob",
+      "content": "great job!"
+    },
+    {
+      "postid": 1,
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 3
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 4
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 5
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 6
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 7
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 8
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 9
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 10
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 11
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 12
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 13
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 14
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 15
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 16
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 17
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 18
+    },
+    {
+      "postid": "1",
+      "author": "kirill",
+      "content": "nice gg",
+      "id": 19
+    }
+  ],
+  "profiles": [
+    {
+      "bio": "updated bio",
+      "id": 1
+    },
+    {
+      "bio": "added new bio",
+      "id": 3
+    },
+    {
+      "content": "nice",
+      "id": 4
+    },
+    {
+      "bio": "added new bio",
+      "id": 5
+    },
+    {
+      "bio": "added new bio",
+      "id": 6
+    },
+    {
+      "bio": "added new bio",
+      "id": 7
+    },
+    {
+      "bio": "added new bio",
+      "id": 8
+    },
+    {
+      "bio": "added new bio",
+      "id": 9
+    },
+    {
+      "bio": "added new bio",
+      "id": 10
+    },
+    {
+      "bio": "added new bio",
+      "id": 11
+    },
+    {
+      "bio": "added new bio",
+      "id": 12
+    },
+    {
+      "bio": "added new bio",
+      "id": 13
+    },
+    {
+      "bio": "added new bio",
+      "id": 14
+    },
+    {
+      "bio": "added new bio",
+      "id": 15
+    },
+    {
+      "bio": "added new bio",
+      "id": 16
+    },
+    {
+      "bio": "added new bio",
+      "id": 17
+    },
+    {
+      "bio": "added new bio",
+      "id": 18
+    },
+    {
+      "bio": "added new bio",
+      "id": 19
+    },
+    {
+      "bio": "added new bio",
+      "id": 20
+    },
+    {
+      "bio": "added new bio",
+      "id": 21
+    },
+    {
+      "bio": "added new bio",
+      "id": 22
+    },
+    {
+      "bio": "added new bio",
+      "id": 23
+    },
+    {
+      "bio": "added new bio",
+      "id": 24
+    },
+    {
+      "bio": "added new bio",
+      "id": 25
+    },
+    {
+      "bio": "added new bio",
+      "id": 26
+    },
+    {
+      "bio": "added new bio",
+      "id": 27
+    },
+    {
+      "bio": "added new bio",
+      "id": 28
+    }
+  ],
+  "likes": [
+    {
+      "id": 2,
+      "postid": 2,
+      "userid": 2
+    },
+    {
+      "postId": 4,
+      "id": 3
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 4
+    },
+    {
+      "postid": 1,
+      "userid": 2,
+      "id": 5
+    },
+    {
+      "postid": 1,
+      "userid": 2,
+      "id": 6
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 7
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 8
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 9
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 10
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 11
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 12
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 13
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 14
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 15
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 16
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 17
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 18
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 19
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 20
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 21
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 22
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 23
+    },
+    {
+      "postid": "1",
+      "userid": "2",
+      "id": 24
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane.smith@example.com"
+    }
+  ]
+}
